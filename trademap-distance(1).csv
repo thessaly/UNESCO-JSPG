@@ -1,0 +1,34 @@
+country,exports_USD,balance_USD,share_percentage,distance_km,balance_type,colour,region
+Germany,394794,309144,31.4,6133,exporter,blue,Europe
+Japan,229013,171173,18.2,5934,exporter,blue,East Asia
+China,140749,21725,11.2,7243,exporter,blue,East Asia
+USA,115382,-85389,9.2,9174,importer,yellow,North America
+"Hong Kong, China",80993,-12729,6.4,1543,importer,yellow,East Asia
+Netherlands,52538,34158,4.2,4390,exporter,blue,Europe
+Finland,35478,31669,2.8,3907,exporter,blue,Europe
+UK,31556,6193,2.5,4590,exporter,blue,Europe
+Hungary,30138,23769,2.4,4865,exporter,blue,Europe
+Sweden,21547,16467,1.7,7179,exporter,blue,Europe
+"Taipei, Chinese",12844,-20659,1,5506,importer,yellow,East Asia
+"Korea, Republic of",12136,-49121,1,4203,importer,yellow,East Asia
+Israel,8708,-15228,0.7,6349,importer,yellow,Middle East
+Philippines,8127,1841,0.6,2891,exporter,blue,Southeast Asia
+Singapore,7878,-12119,0.6,5715,importer,yellow,Southeast Asia
+Austria,6987,1910,0.6,2905,exporter,blue,Europe
+Thailand,6699,-12319,0.5,6259,importer,yellow,Southeast Asia
+India,6183,-45012,0.5,7238,importer,yellow,South Asia
+France,5579,-22299,0.4,4150,importer,yellow,Europe
+Switzerland,5560,-15552,0.4,1899,importer,yellow,Europe
+Belgium,5523,-4108,0.4,3286,importer,yellow,Europe
+Malaysia,5042,-5484,0.4,936,importer,yellow,Southeast Asia
+Spain,4825,-7089,0.4,2852,importer,yellow,Europe
+Italy,4344,-13182,0.3,4674,importer,yellow,Europe
+Canada,3830,-20418,0.3,5247,importer,yellow,North America
+Australia,3693,-21980,0.3,9985,importer,yellow,Oceania
+Czech Republic,3498,-1928,0.3,2225,importer,yellow,Europe
+Russian Federation,2609,-35206,0.2,1646,importer,yellow,Asia
+Poland,1878,-13031,0.1,1891,importer,yellow,Europe
+United Arab Emirates,1521,-606,0.1,1321,importer,yellow,Middle East
+Turkey,1434,-9581,0.1,2785,importer,yellow,Europe
+Mexico,1234,-10687,0.1,1624,importer,yellow,North America
+South Africa,843,-2148,0.1,2211,importer,yellow,Africa
